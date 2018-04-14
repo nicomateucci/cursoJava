@@ -35,7 +35,7 @@ public class Persona
 	@Override
 	public boolean equals(Object obj)
 	{
-		return (obj instanceof Persona)  && ((this.getNombre() == (Persona) obj.getDni()) );
+		return (obj instanceof Persona)  && ((this.getNombre() == ((Persona)obj).getDni()) );
 	}
 	@Override
 	public String toString()
