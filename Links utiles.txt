@@ -1,0 +1,22 @@
+
+
+1 API Specification. Java Platform, Standard Edition 8
+
+	https://docs.oracle.com/javase/8/docs/api/overview-summary.html
+
+2 Listas
+
+	http://panamahitek.com/el-uso-de-listas-en-java/
+
+3 HashMaps
+
+	http://datojava.blogspot.com.ar/2016/07/queEsHashMapYComoFunciona.html
+
+	Programa de ejemplo con arreglos y ordenamiento:
+
+	https://www.todoexpertos.com/categorias/tecnologia-e-internet/programacion/java/respuestas/2187844/hashmap-en-java
+	
+	
+4 Comparable y Comparator
+
+	https://www.apuntesdejava.com/2009/04/comparable-y-comparator.html
