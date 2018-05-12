@@ -10,6 +10,8 @@ public class OrdenarPersonasPorApellidoNombre implements Comparator<Persona>{
 		String cad = per1.getApellido() + per1.getNombre();
 		String cad2 = per2.getApellido() + per2.getNombre();
 		
+		return cad.compareTo(cad2);
+		/*
 		if (cad.compareTo(cad2) < 0) 
 		{
 			return -1;
@@ -19,5 +21,6 @@ public class OrdenarPersonasPorApellidoNombre implements Comparator<Persona>{
 			return 1;
 		}
 		else return 0;
+		*/
 	}
 }

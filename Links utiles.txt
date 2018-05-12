@@ -4,6 +4,8 @@
 
 	https://docs.oracle.com/javase/8/docs/api/overview-summary.html
 
+	http://www.w3api.com/wiki/Categor%C3%ADa:Clase_Java --> En Español.
+
 2 Listas
 
 	http://panamahitek.com/el-uso-de-listas-en-java/
